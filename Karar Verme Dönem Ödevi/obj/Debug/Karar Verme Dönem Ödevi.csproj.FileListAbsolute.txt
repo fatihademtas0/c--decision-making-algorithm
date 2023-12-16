@@ -1,0 +1,7 @@
+C:\Users\Fatih\Desktop\C#\Karar Verme Dönem Ödevi\bin\Debug\Karar Verme Dönem Ödevi.exe.config
+C:\Users\Fatih\Desktop\C#\Karar Verme Dönem Ödevi\bin\Debug\Karar Verme Dönem Ödevi.exe
+C:\Users\Fatih\Desktop\C#\Karar Verme Dönem Ödevi\bin\Debug\Karar Verme Dönem Ödevi.pdb
+C:\Users\Fatih\Desktop\C#\Karar Verme Dönem Ödevi\obj\Debug\Karar Verme Dönem Ödevi.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\C#\Karar Verme Dönem Ödevi\obj\Debug\Karar Verme Dönem Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\C#\Karar Verme Dönem Ödevi\obj\Debug\Karar Verme Dönem Ödevi.exe
+C:\Users\Fatih\Desktop\C#\Karar Verme Dönem Ödevi\obj\Debug\Karar Verme Dönem Ödevi.pdb
